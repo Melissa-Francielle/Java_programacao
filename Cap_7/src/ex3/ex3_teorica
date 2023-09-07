@@ -1,0 +1,17 @@
+5. Qual a saída do Código?
+class Mamifero{
+	public Mamifero (int idade){
+		System.out.println("Mamifero");
+	
+	}
+}
+
+public class Ornitorrinco extends Mamifero{
+	public Ornitorring(){
+		System.out.println("Ornitorrinco");
+	}
+public static void main(String[] args){
+	new Mamifero(5);
+
+}}	
+

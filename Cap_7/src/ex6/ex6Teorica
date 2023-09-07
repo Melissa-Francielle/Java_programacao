@@ -1,0 +1,15 @@
+Com base nas classes criadas na Questão 7 
+I. Projeto p = new Pesquisa();
+II. Projeto p = new Projeto();
+III. Pesquisa p = new Projeto();
+IV. Pesquisa p = new Pesquisa();
+
+Estão corretas as instruções:
+Nenhuma
+Apenas as instruções I e III
+Apenas as instruções II e IV
+Apenas as instruções I e IV
+Todas
+
+Resposta:
+I e IV letra -D 
